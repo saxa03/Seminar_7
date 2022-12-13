@@ -1,0 +1,15 @@
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.csproj.AssemblyReference.cache
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.AssemblyInfoInputs.cache
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.AssemblyInfo.cs
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\bin\Debug\net6.0\Task050_HomeWork.exe
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\bin\Debug\net6.0\Task050_HomeWork.deps.json
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\bin\Debug\net6.0\Task050_HomeWork.runtimeconfig.json
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\bin\Debug\net6.0\Task050_HomeWork.dll
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\bin\Debug\net6.0\Task050_HomeWork.pdb
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.dll
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\refint\Task050_HomeWork.dll
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.pdb
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\Task050_HomeWork.genruntimeconfig.cache
+C:\Users\гоха\Desktop\Seminar_7\Task050_HomeWork\obj\Debug\net6.0\ref\Task050_HomeWork.dll
