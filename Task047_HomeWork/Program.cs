@@ -14,11 +14,6 @@ double[,] matrix = new double[lines, columns];
 FillArray(matrix);
 PrintArray(matrix);
 
-
-
-
-
-
 // Заполнение массива рандомными вещественными числами
 void FillArray(double[,] matr)
 {
